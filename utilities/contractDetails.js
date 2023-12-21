@@ -1,5 +1,5 @@
-import REVNU_REGISTRY from "@/contracts/deployments/pegoTestNet/RevnuRegistry.json";
-import REVNU_TOKEN from "@/contracts/deployments/pegoTestNet/RevnuToken.json";
+import REVNU_REGISTRY from "@/contracts/deployments/inEVM/RevnuRegistry.json";
+import REVNU_TOKEN from "@/contracts/deployments/inEVM/RevnuToken.json";
 
 const DEPLOYED_CONTRACTS = {
   REVNU_REGISTRY,
